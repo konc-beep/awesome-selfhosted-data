@@ -15,16 +15,16 @@ Please fill out information below (all fields are mandatory unless noted otherwi
 # software name
 name: "My awesome software"
 # URL of the software project's homepage
-website_url: "https://my.awesome.softwar.e"
+
 # URL where the full source code of the program can be downloaded
-source_code_url: "https://gitlab.com/awesome/software"
+source_code_url:
 # description of what the software does, shorter than 250 characters, sentence case
 description: "Description of my awesome software."
 # list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - Apache-2.0
   - AGPL-3.0
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+# list of languages/platforms, 
 platforms:
   - Java
   - Python
